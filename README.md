@@ -16,4 +16,4 @@ I'm an aspiring Business Intelligence Analyst with hands-on experience in data a
 - [Top 50 Exercises: Calorie Efficiency](https://github.com/LeetleCoder/Data-Projects-TripleTen/tree/main/TripleTen_May_Code_Pudding)
 
 ### 📫 Let's Talk!
-[LinkedIn](https://www.linkedin.com/in/brandon-lopez-2aa334131/) | [Email](mailto:Scottrocks2003@gmail.com)
+[LinkedIn](www.linkedin.com/in/brandon-lopez-) | [Email](mailto:Scottrocks2003@gmail.com)
