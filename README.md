@@ -8,7 +8,7 @@ I'm an aspiring Business Intelligence Analyst with hands-on experience in data a
 - Clean, transform, and visualize data 
 
 ### 🛠 Tools & Skills
-**SQL**, **Excel**, **Tableau**, **Power BI**, **Python (Pandas)**, **Data Storytelling**
+**SQL**, **Excel**, **Tableau**, **Power BI**, **Data Storytelling**
 
 ### 📁 Featured Projects
 - [Zomato Sales Analysis](https://github.com/LeetleCoder/Data-Projects-TripleTen/tree/main/TripleTen_Final_Project)
