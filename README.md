@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Brandon
 
-I'm an aspiring Business Intelligence Analyst with hands-on experience in data analysis, visualization, and dashboard design. I recently completed the TripleTen BIA program, where I worked on real-world projects involving tools like **SQL, Excel, Power BI, and Tableau**.
+I'm an aspiring Business Intelligence Analyst with hands-on experience in data analysis, visualization, and dashboard design. I recently completed the TripleTen BIA program, where I worked on projects involving tools like **SQL, Excel, Power BI, and Tableau**.
 
 ### 🔍 What I Do
 - Analyze business problems and provide solutions using data 
